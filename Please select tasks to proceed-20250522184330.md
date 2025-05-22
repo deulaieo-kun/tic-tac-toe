@@ -11,7 +11,7 @@ Based on our previous discussion, we have decided on several things as to how Rh
 
 Now as per boss, we should decide what tasks will be assigned to Rhey Yuri, considering that:
 
-1.     1. He has a limited time for internship
+    1. He has a limited time for internship
     2. Whatever he will work on, he should be able to see its application on the platform (implying that what he should work on should not be that big; it should be doable within 12 weeks \[I believe its now 9-10 weeks left\])
     3. Whatever he will work on, it should be consistent and all other tasks should be within that module (if he works on Login improvements, he will stick to that Login module until the end of his internship)
 
@@ -19,13 +19,13 @@ Now as per boss, we should decide what tasks will be assigned to Rhey Yuri, cons
 
 So, here are some tasks I found on the Endorsed to BA folder that might suit Rhey Yuri:
 
-Merchant & Customer | Sign Up | Change placeholder for password confirmation field (Private ([https://app.clickup.com/t/860t4kuvp](https://app.clickup.com/t/860t4kuvp)))
+* Merchant & Customer | Sign Up | Change placeholder for password confirmation field (Private ([https://app.clickup.com/t/860t4kuvp](https://app.clickup.com/t/860t4kuvp)))
 
-Customer Side | Sign In/Up | Check varying title for the same field (Private ([https://app.clickup.com/t/860t4krmx](https://app.clickup.com/t/860t4krmx)))
+* Customer Side | Sign In/Up | Check varying title for the same field (Private ([https://app.clickup.com/t/860t4krmx](https://app.clickup.com/t/860t4krmx)))
 
-31\. Merchant Side| Customer Side | Product Information | Set short description character limit (Private ([https://app.clickup.com/t/865c8tx6r](https://app.clickup.com/t/865c8tx6r)))
+* 31\. Merchant Side| Customer Side | Product Information | Set short description character limit (Private ([https://app.clickup.com/t/865c8tx6r](https://app.clickup.com/t/865c8tx6r)))
 
-Private ([https://app.clickup.com/t/86epzkn6g](https://app.clickup.com/t/86epzkn6g))
+* Private ([https://app.clickup.com/t/86epzkn6g](https://app.clickup.com/t/86epzkn6g))
 
   
 
